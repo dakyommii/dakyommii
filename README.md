@@ -1,3 +1,10 @@
+Feel free to connect with me here!   
+[![Gmail Badge](https://img.shields.io/badge/-dakyeomdwarf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dakyeomdwarf@gmail.com)](mailto:dakyeomdwarf@gmail.com)
+[![Velog Badge](https://img.shields.io/badge/velog-20C997?style=flat-square&labelColor=000000&logo=velog&link=[https://medium.com/@aemmadi](https://velog.io/@dakyommii)/)](https://velog.io/@dakyommii)
+
+
+
+
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
